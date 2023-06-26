@@ -7,4 +7,6 @@ def main(s):
         int: answer
     """
     
-    return
+    return s.count('a')
+s="google is a search engine"
+print(main(s))

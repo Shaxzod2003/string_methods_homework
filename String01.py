@@ -6,5 +6,7 @@ def main(s):
     Returns:
         str: answer
     """
-    
-    return
+
+    return s.upper()
+s="google is a search engine"
+print(main(s))
